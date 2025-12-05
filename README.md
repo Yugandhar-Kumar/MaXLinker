@@ -5,6 +5,8 @@ MaXLinker is a software designed to identify cross-links from cross-linking mass
 MaXLinker is a search engine designed to identify cross-links from cross-linking mass
 spectrometry (XL-MS) data. More specifically it can identify cross-links from samples cross-
 linked by any cleavable cross-linker using MS2-MS3 XL-MS fragmentation strategy.
+<img width="600" height="580" alt="image" src="https://github.com/user-attachments/assets/d37e98b3-7881-403e-bba8-d7d4072e273f" />
+
 ## 2. Algorithm
 <img width="1280" height="882" alt="image" src="https://github.com/user-attachments/assets/8e0bb0d2-513f-4834-831a-925453567ea6" />
 
