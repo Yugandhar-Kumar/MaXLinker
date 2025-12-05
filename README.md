@@ -1,5 +1,5 @@
 # MaXLinker: Proteome-wide Cross-link Identifications with High Specificity and Sensitivity
-MaXLinker is a software designed to identify cross-links from cross-linking massspectrometry (XL-MS) data.
+MaXLinker is a software designed to identify protein cross-links from cross-linking massspectrometry (XL-MS) data.
 
 ## 1. What is MaXLinker?
 MaXLinker is a search engine designed to identify cross-links from cross-linking mass
